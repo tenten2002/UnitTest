@@ -1,0 +1,7 @@
+D:\laptrinh mang\BasicMathTDDTest\BasicMath\bin\Debug\BasicMath.exe.config
+D:\laptrinh mang\BasicMathTDDTest\BasicMath\bin\Debug\BasicMath.exe
+D:\laptrinh mang\BasicMathTDDTest\BasicMath\bin\Debug\BasicMath.pdb
+D:\laptrinh mang\BasicMathTDDTest\BasicMath\obj\Debug\BasicMath.csproj.AssemblyReference.cache
+D:\laptrinh mang\BasicMathTDDTest\BasicMath\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
+D:\laptrinh mang\BasicMathTDDTest\BasicMath\obj\Debug\BasicMath.exe
+D:\laptrinh mang\BasicMathTDDTest\BasicMath\obj\Debug\BasicMath.pdb
